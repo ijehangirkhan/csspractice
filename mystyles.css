@@ -1,0 +1,103 @@
+.flex1
+{
+    display: flex;
+    position: relative;
+}
+
+.Ellipse
+{
+    position: absolute;
+    left: 172px;
+    top: 152px;
+}
+
+.Error
+{
+    position: absolute;
+    left: 342px;
+top: 207px;
+}
+
+.Dots
+{
+    position: absolute;
+    left: 1226px;
+top: 170px;
+}
+
+.flex2
+{
+    display: flex;
+    position: relative;
+}
+
+.EllipseCut
+{
+  position: absolute;
+  left: 1270px;
+top: 661px;
+}
+
+.DotsCut
+{
+    position: absolute;
+    left: 65.24px;
+    top: 575px;
+}
+
+.mainText
+{
+    position: relative;
+}
+
+.heading1
+{
+position: absolute;
+width: 173px;
+height: 70px;
+left: 634px;
+top: 592px;
+
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 70px;
+
+text-align: center;
+
+color: #141633;
+}
+
+.heading2
+{
+    position: absolute;
+    width: 451px;
+    height: 40px;
+    left: 495px;
+    top: 692px;
+    
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 70px;
+    
+    text-align: center;
+    
+    color: #141633;
+    
+}
+
+.mainButton
+{
+    position: absolute;
+width: 212px;
+height: 55px;
+left: 614px;
+top: 782px;
+margin-top: 30px;
+background: #6670FD;
+border-radius: 5px;
+
+}
